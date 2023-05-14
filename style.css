@@ -1,0 +1,44 @@
+body {
+	background-color: #2D353B;
+	font-family: JetBrains Mono NL;
+	text-align: center;
+	box-sizing: border-box;
+}
+
+
+h1 {
+	color: #BF616A; 
+	opacity: 80%;
+	border-bottom: double; 
+	border-color: #4C566A;
+	padding-bottom: 15px;
+}
+
+h2 {
+	color:  #81A1C1; 
+	text-decoration: underline;
+}
+
+a {
+	color: #A3BE8C;
+	text-decoration: none;
+}
+
+form {
+	color: grey;
+}
+
+.div {
+	background-color: #2E3440;
+}
+
+.column {
+float: left;
+width: 33.33%;
+}
+/* The floats after the columns are cleared */
+.row:after {
+content: “”;
+display: table;
+clear: both;
+}
