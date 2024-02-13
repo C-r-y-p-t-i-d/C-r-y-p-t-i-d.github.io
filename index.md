@@ -18,3 +18,4 @@
 
 > block quote
 
+Here is a link to [Page 2](page2.md) :-)
